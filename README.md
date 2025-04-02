@@ -1,6 +1,6 @@
 # Documentação Técnica
 
-## 📌 O que é o projeto/objetivo?
+## 📌 O que é o projeto e qual é o seu objetivo?
 Este projeto é um site de um zoológico, desenvolvido como parte de um trabalho acadêmico. O objetivo do site é apresentar informações sobre os animais, estrutura e serviços do zoológico de forma interativa e acessível.
 
 O desenvolvimento do site apresentou diversos desafios, desde a organização do conteúdo até a experiência do usuário. Um dos principais obstáculos foi a escolha da paleta de cores, pois era essencial que o design refletisse a natureza, alinhando-se à identidade visual de um zoológico. Além disso, foi fundamental manter uma organização precisa dos arquivos, garantindo um acesso rápido e eficiente no futuro.
