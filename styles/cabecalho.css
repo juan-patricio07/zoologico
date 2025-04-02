@@ -1,0 +1,76 @@
+body {
+    background-color: rgb(252, 243, 243);
+    font-family: Arial, Helvetica, sans-serif;
+    color: #71cd4a;
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    display: grid;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    grid-template-areas: 
+    "cabecalho"
+    "sobre"
+    "animais"
+    "local" 
+    "contato";
+    grid-template-rows: 85px 20vh 55vh 60vh 90px;
+}
+
+a {
+    text-decoration: none;
+    color: #88FA57;
+}
+
+#cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    background-color: #00080D;
+    height: 90px;
+    position: fixed;
+    width: 98%;
+}
+
+#logo {
+    width: 150px;
+    height: auto;
+}
+
+#navegacao {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+#navegacao ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end; 
+}
+
+#navegacao ul li {
+    margin-left: 30px;
+}
+
+#navegacao a {
+    text-decoration: none;
+    color: #88FA57;
+}
+
+.titulo {
+    text-align: center;
+}
+
+.paragrafo {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+

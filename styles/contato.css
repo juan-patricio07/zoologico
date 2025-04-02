@@ -1,0 +1,6 @@
+#contato {
+    grid-area: contato;
+    background-color: #00080D;
+    text-align: center;
+    padding: 20px;
+}

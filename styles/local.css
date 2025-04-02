@@ -1,0 +1,21 @@
+.titulo-local {
+    text-align: center;
+    color: #88FA57;
+    margin-bottom: 10px;
+}
+
+#local {
+    grid-area: local;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #214026;
+    flex-direction: column;
+}
+
+#mapa {
+    max-width: 40%;
+    height: auto;
+    padding: 0;
+    margin: 0;
+}

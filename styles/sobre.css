@@ -1,0 +1,7 @@
+#sobre {
+    grid-area: sobre;
+    background-color: #214026;
+    text-align: justify;
+    padding: 0 20px;
+    overflow: hidden;
+}
