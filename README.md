@@ -18,6 +18,7 @@ Este projeto não possui testes automatizados. No entanto, para visualizar e edi
 ## ⚠ Possíveis problemas enfrentados
 Outro desafio significativo foi a implementação e o teste da exibição dos elementos no produto final, exigindo uma pesquisa prévia sobre cada funcionalidade para assegurar uma experiência visual coerente e intuitiva.
 
+## ✔ Conclusão
 Apesar das dificuldades, o processo proporcionou aprendizados valiosos sobre design, organização e adaptabilidade. Com as soluções aplicadas, o site se tornou funcional e agradável, mesmo mantendo uma abordagem simples. O desenvolvimento foi desafiador, mas o resultado final evidenciou o impacto positivo de uma plataforma bem estruturada.
 
 ---
